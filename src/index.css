@@ -14,3 +14,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.font-edu {
+  font-family: "Edu SA Hand", cursive;
+}
