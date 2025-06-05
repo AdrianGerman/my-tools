@@ -14,6 +14,10 @@
   font-family: "Edu SA Hand", cursive;
 }
 
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
 .bg-radial-glow {
   background-image: radial-gradient(
     ellipse 80% 80% at 50% -20%,
