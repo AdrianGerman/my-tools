@@ -1,3 +1,4 @@
+import { Clock } from "./components/Clock"
 import { InfoTools } from "./components/InfoTools"
 import { Tools } from "./components/Tools"
 
@@ -9,6 +10,7 @@ function App() {
           Welcome, <span className="font-bold">from my tools</span>
         </h1>
         <InfoTools />
+        <Clock />
         <Tools />
       </div>
     </main>
